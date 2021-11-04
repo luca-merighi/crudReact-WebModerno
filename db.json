@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luca Merighi",
+      "email": "whalesflying5@gmail,com"
+    },
+    {
+      "name": "Luca Merighi",
+      "email": "lucafmerigui@gmail.com",
+      "id": 2
+    }
+  ]
+}
